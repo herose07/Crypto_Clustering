@@ -1,4 +1,6 @@
-![image](https://user-images.githubusercontent.com/65314799/99163010-a39a1c00-26c9-11eb-8ef1-075b768c6200.png)
+![image](https://user-images.githubusercontent.com/65314799/99164794-02ac6080-26cb-11eb-8e0e-598b3be556fd.png)
+
+
 
 # Cryptocurrency Clustering
 
