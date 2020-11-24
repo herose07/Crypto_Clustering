@@ -1,10 +1,8 @@
 ![image](https://user-images.githubusercontent.com/65314799/99164794-02ac6080-26cb-11eb-8e0e-598b3be556fd.png)
 
-
-
 # Cryptocurrency Clustering
 
-For this project, I use classification to group .
+For this project, I use classification to group various cryptocurrencies.
 
 This project accomplishes the following main tasks:
 
